@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Ndnco" max_length="40" name="x_482118_ndncotest_ndnco" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Project ID" max_length="40" name="project_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Project Name" max_length="256" name="project_name" type="string"/>
+    </element>
+</database>

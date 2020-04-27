@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_482118_ndncotest.ndnco_user" name="x_482118_ndncotest.ndnco_user">097343270798d010048fff4c7c1ed044</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 04:37:59</sys_created_on>
+        <sys_id>c57343270798d010048fff4c7c1ed048</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>097343270798d010048fff4c7c1ed044</sys_name>
+        <sys_package display_value="NdncoTest" source="x_482118_ndncotest">1c53cfe707d8d010048fff4c7c1ed0ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NdncoTest">1c53cfe707d8d010048fff4c7c1ed0ca</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c57343270798d010048fff4c7c1ed048</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 04:37:59</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
